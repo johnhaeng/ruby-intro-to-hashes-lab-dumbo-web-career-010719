@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-  hash = {name: "John Lee"}
+  hash = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
@@ -21,9 +21,13 @@ def monopoly_with_second_tier
 	  
 	  monopoly = {
 	               railroads: 
-	                {
-	                  pieces: '4'
-	                }
+	                        {
+	                          pieces: 4
+	                          names: 
+	                                {
+	                    
+	                                }
+	                        }
 	             }
 
 end
