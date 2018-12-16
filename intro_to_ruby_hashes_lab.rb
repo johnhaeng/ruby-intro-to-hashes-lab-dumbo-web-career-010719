@@ -1,9 +1,9 @@
 def new_hash
-
+  my_hash = {}
 end
 
 def actor
-
+  hash = {name: "John Lee"}
 end
 
 def monopoly
